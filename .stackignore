@@ -1,0 +1,17 @@
+# This is a sample .stackignore file
+
+# We ignore README.md, .github/stacks and .stackignore file by default 
+
+# Ignore generated files 
+generated/
+
+# Ignore private code 
+/private_code/
+
+# Ignore any log files 
+
+*.log 
+
+# Ignore some workflow files 
+/.github/workflows/deploy.yml
+
