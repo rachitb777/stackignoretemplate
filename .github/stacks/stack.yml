@@ -5,19 +5,4 @@ branding:
   color: 'blue'
 
 inputs:
-  - name: input_field
-    description: text input field
-    required: true
-    
-#-------------------------------------------------------------
 configs:
-      
- environments: 
-    - name: staging
-      parameters: 
-        protected-branches: false
-
-    - name: production
-      parameters: 
-        protected-branches: false
-
