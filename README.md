@@ -9,8 +9,8 @@ The .stackignore file will use the glob pattern used by the .gitignore file. An 
 ```
 # Example stack ignore file
 /.github/
-/.stackignore
-**/test.yml
+*.log
+node_modules
 
 ```
 
