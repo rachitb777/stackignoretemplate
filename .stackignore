@@ -10,7 +10,7 @@ generated/
 
 # Ignore any log files 
 
-*.log 
+*.log
 
 # Ignore some workflow files 
 /.github/workflows/deploy.yml
