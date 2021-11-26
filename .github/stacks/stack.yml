@@ -3,6 +3,3 @@ description: This is a stack for testing stackignore
 branding:
   icon: 'anchor'
   color: 'blue'
-
-inputs:
-configs:
