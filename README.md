@@ -22,3 +22,12 @@ We are starting with support for a subset of .gitignore format.
 - / is used as path separater. 
 
 More details on .gitignore format can be found [here](https://git-scm.com/docs/gitignore)
+
+### Implicit Rules
+There are three implicit rules which are added by default
+
+1. .github/stacks/
+2. README.md
+3. .stackignore
+
+All of these files/folders will be removed regardless of presense of .stackignorefile
